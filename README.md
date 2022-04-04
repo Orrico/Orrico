@@ -1,7 +1,9 @@
 # Sobre / About
-### pt-br: ## Experiente Arquiteto de Sistemas com histórico de trabalho no setor educacional e na administração pública. Hábil em desenvolvimento de APIs, serviços web, UX (experiência do usuário) e gerente de projetos com metodologias Agile. Formação acadêmica e profissional em Análise e Desenvolvimento de Sistemas.
+#### pt-br:
+## Experiente Arquiteto de Sistemas com histórico de trabalho no setor educacional e na administração pública. Hábil em desenvolvimento de APIs, serviços web, UX (experiência do usuário) e gerente de projetos com metodologias Agile. Formação acadêmica e profissional em Análise e Desenvolvimento de Sistemas.
 
-### en: ## Experienced Systems Architect with work history in the educational sector and in public administration. Skilled in developing APIs, web services, UX (user experience) and project manager with Agile methodologies. Academic and professional training in Systems Analysis and Development.
+#### en:
+## Experienced Systems Architect with work history in the educational sector and in public administration. Skilled in developing APIs, web services, UX (user experience) and project manager with Agile methodologies. Academic and professional training in Systems Analysis and Development.
 
 
 
