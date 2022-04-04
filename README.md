@@ -1,4 +1,4 @@
-### Hi there 👋
+## Experienced Systems Architect with work history in the educational sector and in public administration. Skilled in developing APIs, web services, UX (user experience) and project manager with Agile methodologies. Academic and professional training in Systems Analysis and Development.
 
 <!--
 **Orrico/Orrico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
