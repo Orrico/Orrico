@@ -9,4 +9,4 @@
 ### 🌱 I’m currently learning:
 - Golang
 - Python
-- Databases
+- Data Manipulation
