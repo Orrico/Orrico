@@ -12,5 +12,5 @@
 - Databases
 
 ### 📫 How to reach me:
-- Email: jonas@estupendo.net
+- Email: jonas@estupendo.dev
 - Twitter: @Estupendo
