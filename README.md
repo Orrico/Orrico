@@ -1,23 +1,16 @@
-# Sobre / About
-#### pt-br:
-## Experiente Arquiteto de Sistemas com histórico de trabalho no setor educacional e na administração pública. Hábil em desenvolvimento de APIs, serviços web, UX (experiência do usuário) e gerente de projetos com metodologias Agile. Formação acadêmica e profissional em Análise e Desenvolvimento de Sistemas.
+# Jonas Orrico
+## Work experience in the education sector and public administration. Development of APIs, web apps, UX (user experience) and project manager with Agile methodologies.
 
-#### en:
-## Experienced Systems Architect with work history in the educational sector and in public administration. Skilled in developing APIs, web services, UX (user experience) and project manager with Agile methodologies. Academic and professional training in Systems Analysis and Development.
+### ⚡ I’m currently working on:
+- Software architecture at INEP - National Institute for Educational Research
+- Stun CMS
+- Atesto APP
 
+### 🌱 I’m currently learning:
+- Golang
+- Python
+- Databases
 
-
-<!--
-**Orrico/Orrico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+- Email: jonas@estupendo.net
+- Twitter: @Estupendo
