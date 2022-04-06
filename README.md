@@ -10,7 +10,3 @@
 - Golang
 - Python
 - Databases
-
-### 📫 How to reach me:
-- Email: jonas@estupendo.dev
-- Twitter: @Estupendo
