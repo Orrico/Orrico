@@ -2,7 +2,7 @@
 
 ### I’m currently working on:
 - Software Architecture at INEP - National Institute for Educational Research
-- Stun CMS
+- Stunpost CMS
 - Atesto APP
 
 ### I’m currently learning:
