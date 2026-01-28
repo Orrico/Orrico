@@ -1,1 +1,1 @@
-## Development of APIs, web apps, UX (user experience) and project manager with Agile methodologies. Work experience in the education sector and public administration.
+# Project Manager and Developer delivering AI-enhanced web solutions. Expertise in integrating Large Language Models (LLMs) into user-centric applications and APIs. Strong background in Agile leadership within public administration and education, driving innovation through Python and modern software architecture.
