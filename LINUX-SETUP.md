@@ -1,17 +1,17 @@
 # Linux Setup
 
 ## System - Ubuntu / Debian
-sudo apt update
+``sudo apt update
 sudo apt upgrade
-sudo apt install build-essential git sqlite3 curl wget unzip zstd vim btop ca-certificates openssh-server nginx
+sudo apt install build-essential git sqlite3 curl wget unzip zstd vim btop ca-certificates openssh-server nginx``
 
 ## Shell
 ### tmux
-sudo apt install tmux libevent-dev ncurses-dev bison pkg-config
-tar -zxf tmux-*.tar.gz
+``sudo apt install tmux libevent-dev ncurses-dev bison pkg-config``
+``tar -zxf tmux-*.tar.gz
 cd tmux-*/
 ./configure
-make && sudo make install
+make && sudo make install``
 
 ### zsh
 sudo apt install zsh
