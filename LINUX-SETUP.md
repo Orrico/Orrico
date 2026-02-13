@@ -6,14 +6,14 @@ sudo apt upgrade
 sudo apt install build-essential git sqlite3 curl wget unzip zstd vim btop ca-certificates openssh-server nginx
 
 ## Shell
-- tmux
+### tmux
 sudo apt install tmux libevent-dev ncurses-dev bison pkg-config
 tar -zxf tmux-*.tar.gz
 cd tmux-*/
 ./configure
 make && sudo make install
 
-- zsh
+### zsh
 sudo apt install zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 chsh -s $(which zsh) /* Edit: vim ~/.bashrc if [ -t 1 ]; then   exec zsh fi */
@@ -22,24 +22,24 @@ plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 grep "^alias " ~/.bashrc >> ~/.zshrc
 
 ## Redes
-- UFW
+### UFW
 sudo ufw enable
 sudo ufw allow ssh
 sudo ufw allow http
 sudo ufw allow https
 sudo ufw status
 
-- Nginx
+### Nginx
 sudo systemctl enable nginx
 sudo systemctl start nginx
 sudo service --status-all
 
-- SSH
+### SSH
 sudo systemctl enable ssh
 sudo systemctl start ssh
 sudo service --status-all
 
-- Tailscale
+### Tailscale
 curl -fsSL https://tailscale.com/install.sh | sh
 sudo tailscale up
 sudo systemctl enable tailscaled
